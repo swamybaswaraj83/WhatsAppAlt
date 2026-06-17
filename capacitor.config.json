@@ -1,0 +1,8 @@
+{
+  "appId": "com.signalinbox.app",
+  "appName": "Signal Inbox",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
